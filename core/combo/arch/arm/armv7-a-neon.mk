@@ -33,12 +33,10 @@ endif
 endif
 endif
 endif
-<<<<<<< HEAD
 endif
 endif
 endif
-=======
->>>>>>> 0cf8940... JustArchi's ArchiDroid Optimizations V3
+
 
 arch_variant_cflags += \
     -mfloat-abi=softfp \
